@@ -1,0 +1,8 @@
+[
+	"C:\\Program Files\\Gauge\\bin\\gauge.exe",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"C:/Egitim/AppiumOzdilekteyimMobile/specs/example.spec:10"
+]

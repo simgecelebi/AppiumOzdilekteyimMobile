@@ -1,0 +1,64 @@
+Created by batuhanzafer on 30.01.2022
+
+This is a concept file with following syntax for each concept.
+# Anasayfa id <text> alanını kontrol et
+* id "com.ozdilek.ozdilekteyim:id/textView" li elementi bul ve <text> alanını kontrol et
+* "2" saniye kadar bekle
+
+# Kategoriler sayfası xpath <text> alanını kontrol et
+* Xpath "//android.widget.LinearLayout[@content-desc='Kategoriler']/android.widget.TextView" li elementi bul ve <text> alanını kontrol et
+* "2" saniye kadar bekle
+
+# Ürün detay sayfası xpath <text> alanını kontrol et
+* Xpath "//android.widget.TextView[contains(@text, 'SEPETE EKLE')]" li elementi bul ve <text> alanını kontrol et
+* "2" saniye kadar bekle
+
+# Giriş yap sayfası xpath <text> alanını kontrol et
+* Xpath "//android.widget.TextView[contains(@text, 'Parolamı Unuttum')]" li elementi bul ve <text> alanını kontrol et
+* "2" saniye kadar bekle
+
+# Alışverişe başla butonuna bas
+* id "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" li elemente tıkla
+* "2" saniye kadar bekle
+
+# Kategoriler butonuna bas
+* id "com.ozdilek.ozdilekteyim:id/nav_categories" li elemente tıkla
+* "2" saniye kadar bekle
+
+#Kadın butonuna bas
+* xpath "//android.widget.TextView[contains(@text, 'Kadın')]" li elemente tıkla
+* "2" saniye kadar bekle
+
+# Pantolon butonuna bas
+* xpath "//android.widget.TextView[contains(@text, 'Pantolon')]" li elemente tıkla
+* "2" saniye kadar bekle
+
+# Random ürün seç
+* Elementler "//android.view.ViewGroup/android.widget.ImageView" arasından rasgele bir tanesini seç ve tıkla
+* "2" saniye kadar bekle
+
+# Favorilere ekle butonuna bas
+* id "com.ozdilek.ozdilekteyim:id/imgFav" li elemente tıkla
+* "2" saniye kadar bekle
+
+# E-posta adresi alanına <text> değerini yaz
+* id "com.ozdilek.ozdilekteyim:id/etEposta" li elemente tıkla
+* "2" saniye kadar bekle
+* id "com.ozdilek.ozdilekteyim:id/etEposta" li elementi bul ve <text> değerini yaz
+* "2" saniye kadar bekle
+
+# Parola alanına <text> değerini yaz
+* id "com.ozdilek.ozdilekteyim:id/etPassword" li elemente tıkla
+* "2" saniye kadar bekle
+* id "com.ozdilek.ozdilekteyim:id/etPassword" li elementi bul ve <text> değerini yaz
+* "2" saniye kadar bekle
+
+# Geri butonuna bas
+* id "com.ozdilek.ozdilekteyim:id/ivBack" li elemente tıkla
+* "2" saniye kadar bekle
+
+# Beden seç sepete ekle
+* xpath "//androidx.recyclerview.widget.RecyclerView[1]/android.widget.RelativeLayout[1]/android.widget.TextView" li elemente tıkla
+* "2" saniye kadar bekle
+* id "com.ozdilek.ozdilekteyim:id/ivAddCart" li elemente tıkla
+* "2" saniye kadar bekle

@@ -1,0 +1,66 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 941milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 941"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 54209"}
+{"logLevel":"info","message":"Listening on port:54209"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.clickRandomelement' and 'StepImplementation.clickRandomelement'"}
+{"logLevel":"debug","message":"Found Elementler {} arasından rasgele bir tanesini seç ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.textAreacontrolXpath' and 'StepImplementation.textAreacontrolXpath'"}
+{"logLevel":"debug","message":"Found Xpath {} li elementi bul ve {} alanını kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.swipeDown' and 'StepImplementation.swipeDown'"}
+{"logLevel":"debug","message":"Found Sayfayı aşağı kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.waitForseconds' and 'StepImplementation.waitForseconds'"}
+{"logLevel":"debug","message":"Found {} saniye kadar bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.clickByxpath' and 'StepImplementation.clickByxpath'"}
+{"logLevel":"debug","message":"Found xpath {} li elemente tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.textAreacontrolId' and 'StepImplementation.textAreacontrolId'"}
+{"logLevel":"debug","message":"Found id {} li elementi bul ve {} alanını kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepImplementation.clickByid' and 'StepImplementation.clickByid'"}
+{"logLevel":"debug","message":"Found id {} li elemente tıkla in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\txpath {} li elemente tıkla : public void clickByxpath(String xpath)"}
+{"logLevel":"debug","message":"\tid {} li elemente tıkla : public void clickByid(String id)"}
+{"logLevel":"debug","message":"\tXpath {} li elementi bul ve {} alanını kontrol et : public void textAreacontrolXpath(String xpath, String text)"}
+{"logLevel":"debug","message":"\tid {} li elementi bul ve {} alanını kontrol et : public void textAreacontrolId(String id, String text)"}
+{"logLevel":"debug","message":"\t{} saniye kadar bekle : public void waitForseconds(ınt time) throws InterruptedException"}
+{"logLevel":"debug","message":"\tSayfayı aşağı kaydır : public void swipeDown()"}
+{"logLevel":"debug","message":"\tElementler {} arasından rasgele bir tanesini seç ve tıkla : public void clickRandomelement(String id)"}
+Android  testi başlıyor
+Oca 31, 2022 4:57:41 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class StepImplementation.waitForseconds"}
+{"logLevel":"debug","message":"Executing 'id {} li elementi bul ve {} alanını kontrol et' using 'class StepImplementation.textAreacontrolId"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class StepImplementation.waitForseconds"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class StepImplementation.waitForseconds"}
+{"logLevel":"debug","message":"Executing 'id {} li elemente tıkla' using 'class StepImplementation.clickByid"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class StepImplementation.waitForseconds"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class StepImplementation.waitForseconds"}
+{"logLevel":"debug","message":"Executing 'id {} li elemente tıkla' using 'class StepImplementation.clickByid"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class StepImplementation.waitForseconds"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class StepImplementation.waitForseconds"}
+{"logLevel":"debug","message":"Executing 'Xpath {} li elementi bul ve {} alanını kontrol et' using 'class StepImplementation.textAreacontrolXpath"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class StepImplementation.waitForseconds"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class StepImplementation.waitForseconds"}
+{"logLevel":"debug","message":"Executing 'xpath {} li elemente tıkla' using 'class StepImplementation.clickByxpath"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class StepImplementation.waitForseconds"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class StepImplementation.waitForseconds"}
+{"logLevel":"debug","message":"Executing 'xpath {} li elemente tıkla' using 'class StepImplementation.clickByxpath"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class StepImplementation.waitForseconds"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class StepImplementation.waitForseconds"}
+{"logLevel":"debug","message":"Executing 'Sayfayı aşağı kaydır' using 'class StepImplementation.swipeDown"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class StepImplementation.waitForseconds"}
+{"logLevel":"debug","message":"Executing 'Elementler {} arasından rasgele bir tanesini seç ve tıkla' using 'class StepImplementation.clickRandomelement"}
+1
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class StepImplementation.waitForseconds"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class StepImplementation.waitForseconds"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}
