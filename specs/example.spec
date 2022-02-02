@@ -10,14 +10,14 @@ To execute this specification, run
 Start
 -------------
 * "1" saniye kadar bekle
-* Anasayfa id "Mağazadan Alışveriş" alanını kontrol et
-* "1" saniye kadar bekle
+//* Anasayfa id "Mağazadan Alışveriş" alanını kontrol et
+//* "1" saniye kadar bekle
 * Alışverişe başla butonuna bas
 * "1" saniye kadar bekle
 * Kategoriler butonuna bas
 * "1" saniye kadar bekle
-* Kategoriler sayfası xpath "Kategoriler" alanını kontrol et
-* "1" saniye kadar bekle
+//* Kategoriler sayfası xpath "Kategoriler" alanını kontrol et
+//* "1" saniye kadar bekle
 * Kadın butonuna bas
 * "1" saniye kadar bekle
 * Pantolon butonuna bas
@@ -26,12 +26,12 @@ Start
 * "1" saniye kadar bekle
 * Random ürün seç
 * "1" saniye kadar bekle
-* Ürün detay sayfası xpath "SEPETE EKLE" alanını kontrol et
-* "1" saniye kadar bekle
+//* Ürün detay sayfası xpath "SEPETE EKLE" alanını kontrol et
+//* "1" saniye kadar bekle
 * Favorilere ekle butonuna bas
 * "1" saniye kadar bekle
-* Giriş yap sayfası xpath "Parolamı Unuttum" alanını kontrol et
-* "3" saniye kadar bekle
+//* Giriş yap sayfası xpath "Parolamı Unuttum" alanını kontrol et
+//* "3" saniye kadar bekle
 * E-posta adresi alanına "simge.celebi@testinium.com" değerini yaz
 * "3" saniye kadar bekle
 * Parola alanına "12345*" değerini yaz

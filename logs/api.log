@@ -16635,3 +16635,131 @@
 01-02-2022 21:15:08.058 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237 yap sayfas\304\261 xpath {} alan\304\261n\304\261 kontrol et" parameterizedStepValue:"Giri\305\237 yap sayfas\304\261 xpath <Parolam\304\261 Unuttum> alan\304\261n\304\261 kontrol et" parameters:"Parolam\304\261 Unuttum" > > 
 01-02-2022 21:15:18.698 [Gauge] [INFO] Spec file added / modified: C:\Egitim\AppiumOzdilekteyimMobile\specs\example.spec
 01-02-2022 21:15:18.730 [Gauge] [INFO] Spec file added / modified: C:\Egitim\AppiumOzdilekteyimMobile\specs\example.spec
+02-02-2022 15:01:02.448 [Gauge] [INFO] Watching directory: C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs
+02-02-2022 15:01:02.453 [Gauge] [DEBUG] Found 2 files
+02-02-2022 15:01:02.462 [Gauge] [INFO] Initializing concepts cache with 14 concepts
+02-02-2022 15:01:02.462 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:01:02.462 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:01:02.462 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:01:02.462 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:01:02.462 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:01:02.462 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:01:02.462 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:01:02.462 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:01:02.462 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:01:02.462 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:01:02.462 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:01:02.462 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:01:02.462 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:01:02.462 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:01:02.470 [Gauge] [INFO] Initializing specs cache with 1 specs
+02-02-2022 15:01:02.470 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\example.spec
+02-02-2022 15:01:02.470 [Gauge] [INFO] Initializing steps cache with 2 steps
+02-02-2022 15:01:02.470 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55556
+02-02-2022 15:01:02.702 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+02-02-2022 15:01:02.706 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\testinium\\AppData\\Roaming\\gauge\\plugins\\java\\0.7.15\\libs" > 
+02-02-2022 15:01:04.737 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\" saniye kadar bekle" > 
+02-02-2022 15:01:04.737 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye kadar bekle" parameterizedStepValue:"<3> saniye kadar bekle" parameters:"3" > > 
+02-02-2022 15:01:04.742 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\" saniye kadar bekle" > 
+02-02-2022 15:01:04.742 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye kadar bekle" parameterizedStepValue:"<3> saniye kadar bekle" parameters:"3" > > 
+02-02-2022 15:01:16.709 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"1\" saniye kadar bekle" > 
+02-02-2022 15:01:16.710 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye kadar bekle" parameterizedStepValue:"<1> saniye kadar bekle" parameters:"1" > > 
+02-02-2022 15:01:17.067 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<time> saniye kadar bekle" > 
+02-02-2022 15:01:17.067 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye kadar bekle" parameterizedStepValue:"<time> saniye kadar bekle" parameters:"time" > > 
+02-02-2022 15:01:17.067 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<time> saniye kadar bekle" > 
+02-02-2022 15:01:17.067 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye kadar bekle" parameterizedStepValue:"<time> saniye kadar bekle" parameters:"time" > > 
+02-02-2022 15:01:17.068 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<time> saniye kadar bekle" > 
+02-02-2022 15:01:17.068 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye kadar bekle" parameterizedStepValue:"<time> saniye kadar bekle" parameters:"time" > > 
+02-02-2022 15:01:17.074 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Anasayfa id \"Ma\304\237azadan Al\304\261\305\237veri\305\237\" alan\304\261n\304\261 kontrol et" > 
+02-02-2022 15:01:17.074 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Anasayfa id {} alan\304\261n\304\261 kontrol et" parameterizedStepValue:"Anasayfa id <Ma\304\237azadan Al\304\261\305\237veri\305\237> alan\304\261n\304\261 kontrol et" parameters:"Ma\304\237azadan Al\304\261\305\237veri\305\237" > > 
+02-02-2022 15:01:17.076 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"id <id> li elemente t\304\261kla" > 
+02-02-2022 15:01:17.076 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"id {} li elemente t\304\261kla" parameterizedStepValue:"id <id> li elemente t\304\261kla" parameters:"id" > > 
+02-02-2022 15:01:17.077 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"xpath <xpath> li elemente t\304\261kla" > 
+02-02-2022 15:01:17.077 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"xpath {} li elemente t\304\261kla" parameterizedStepValue:"xpath <xpath> li elemente t\304\261kla" parameters:"xpath" > > 
+02-02-2022 15:01:17.078 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"id <id> li elementi bul ve <text> alan\304\261n\304\261 kontrol et" > 
+02-02-2022 15:01:17.078 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"id {} li elementi bul ve {} alan\304\261n\304\261 kontrol et" parameterizedStepValue:"id <id> li elementi bul ve <text> alan\304\261n\304\261 kontrol et" parameters:"id" parameters:"text" > > 
+02-02-2022 15:01:17.078 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Xpath <xpath> li elementi bul ve <text> alan\304\261n\304\261 kontrol et" > 
+02-02-2022 15:01:17.078 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Xpath {} li elementi bul ve {} alan\304\261n\304\261 kontrol et" parameterizedStepValue:"Xpath <xpath> li elementi bul ve <text> alan\304\261n\304\261 kontrol et" parameters:"xpath" parameters:"text" > > 
+02-02-2022 15:01:17.079 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfay\304\261 a\305\237a\304\237\304\261 kayd\304\261r" > 
+02-02-2022 15:01:17.079 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfay\304\261 a\305\237a\304\237\304\261 kayd\304\261r" parameterizedStepValue:"Sayfay\304\261 a\305\237a\304\237\304\261 kayd\304\261r" > > 
+02-02-2022 15:01:17.080 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Elementler <xpath> aras\304\261ndan rasgele bir tanesini se\303\247 ve t\304\261kla" > 
+02-02-2022 15:01:17.080 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Elementler {} aras\304\261ndan rasgele bir tanesini se\303\247 ve t\304\261kla" parameterizedStepValue:"Elementler <xpath> aras\304\261ndan rasgele bir tanesini se\303\247 ve t\304\261kla" parameters:"xpath" > > 
+02-02-2022 15:01:17.080 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"id <id> li elementi bul ve <text> de\304\237erini yaz" > 
+02-02-2022 15:01:17.081 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"id {} li elementi bul ve {} de\304\237erini yaz" parameterizedStepValue:"id <id> li elementi bul ve <text> de\304\237erini yaz" parameters:"id" parameters:"text" > > 
+02-02-2022 15:01:17.363 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Anasayfa id <text> alan\304\261n\304\261 kontrol et" > 
+02-02-2022 15:01:17.363 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Anasayfa id {} alan\304\261n\304\261 kontrol et" parameterizedStepValue:"Anasayfa id <text> alan\304\261n\304\261 kontrol et" parameters:"text" > > 
+02-02-2022 15:01:17.365 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Al\304\261\305\237veri\305\237e ba\305\237la butonuna bas" > 
+02-02-2022 15:01:17.365 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Al\304\261\305\237veri\305\237e ba\305\237la butonuna bas" parameterizedStepValue:"Al\304\261\305\237veri\305\237e ba\305\237la butonuna bas" > > 
+02-02-2022 15:01:17.461 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Kategoriler sayfas\304\261 xpath <text> alan\304\261n\304\261 kontrol et" > 
+02-02-2022 15:01:17.461 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kategoriler sayfas\304\261 xpath {} alan\304\261n\304\261 kontrol et" parameterizedStepValue:"Kategoriler sayfas\304\261 xpath <text> alan\304\261n\304\261 kontrol et" parameters:"text" > > 
+02-02-2022 15:01:17.466 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" \303\234r\303\274n detay sayfas\304\261 xpath <text> alan\304\261n\304\261 kontrol et" > 
+02-02-2022 15:01:17.467 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274n detay sayfas\304\261 xpath {} alan\304\261n\304\261 kontrol et" parameterizedStepValue:"\303\234r\303\274n detay sayfas\304\261 xpath <text> alan\304\261n\304\261 kontrol et" parameters:"text" > > 
+02-02-2022 15:01:17.468 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Giri\305\237 yap sayfas\304\261 xpath <text> alan\304\261n\304\261 kontrol et" > 
+02-02-2022 15:01:17.468 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237 yap sayfas\304\261 xpath {} alan\304\261n\304\261 kontrol et" parameterizedStepValue:"Giri\305\237 yap sayfas\304\261 xpath <text> alan\304\261n\304\261 kontrol et" parameters:"text" > > 
+02-02-2022 15:01:17.477 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Al\304\261\305\237veri\305\237e ba\305\237la butonuna bas" > 
+02-02-2022 15:01:17.477 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Al\304\261\305\237veri\305\237e ba\305\237la butonuna bas" parameterizedStepValue:"Al\304\261\305\237veri\305\237e ba\305\237la butonuna bas" > > 
+02-02-2022 15:01:17.480 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kategoriler butonuna bas" > 
+02-02-2022 15:01:17.480 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kategoriler butonuna bas" parameterizedStepValue:"Kategoriler butonuna bas" > > 
+02-02-2022 15:01:17.610 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Kategoriler butonuna bas" > 
+02-02-2022 15:01:17.611 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kategoriler butonuna bas" parameterizedStepValue:"Kategoriler butonuna bas" > > 
+02-02-2022 15:01:17.614 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kategoriler sayfas\304\261 xpath \"Kategoriler\" alan\304\261n\304\261 kontrol et" > 
+02-02-2022 15:01:17.614 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kategoriler sayfas\304\261 xpath {} alan\304\261n\304\261 kontrol et" parameterizedStepValue:"Kategoriler sayfas\304\261 xpath <Kategoriler> alan\304\261n\304\261 kontrol et" parameters:"Kategoriler" > > 
+02-02-2022 15:01:17.729 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kad\304\261n butonuna bas" > 
+02-02-2022 15:01:17.729 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kad\304\261n butonuna bas" parameterizedStepValue:"Kad\304\261n butonuna bas" > > 
+02-02-2022 15:01:17.835 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Pantolon butonuna bas" > 
+02-02-2022 15:01:17.836 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Pantolon butonuna bas" parameterizedStepValue:"Pantolon butonuna bas" > > 
+02-02-2022 15:01:17.994 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Pantolon butonuna bas" > 
+02-02-2022 15:01:17.994 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Pantolon butonuna bas" parameterizedStepValue:"Pantolon butonuna bas" > > 
+02-02-2022 15:01:18.006 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Random \303\274r\303\274n se\303\247" > 
+02-02-2022 15:01:18.007 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Random \303\274r\303\274n se\303\247" parameterizedStepValue:"Random \303\274r\303\274n se\303\247" > > 
+02-02-2022 15:01:18.114 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Random \303\274r\303\274n se\303\247" > 
+02-02-2022 15:01:18.114 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Random \303\274r\303\274n se\303\247" parameterizedStepValue:"Random \303\274r\303\274n se\303\247" > > 
+02-02-2022 15:01:18.118 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234r\303\274n detay sayfas\304\261 xpath \"SEPETE EKLE\" alan\304\261n\304\261 kontrol et" > 
+02-02-2022 15:01:18.118 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274n detay sayfas\304\261 xpath {} alan\304\261n\304\261 kontrol et" parameterizedStepValue:"\303\234r\303\274n detay sayfas\304\261 xpath <SEPETE EKLE> alan\304\261n\304\261 kontrol et" parameters:"SEPETE EKLE" > > 
+02-02-2022 15:01:18.212 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Favorilere ekle butonuna bas" > 
+02-02-2022 15:01:18.212 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Favorilere ekle butonuna bas" parameterizedStepValue:"Favorilere ekle butonuna bas" > > 
+02-02-2022 15:01:18.326 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Favorilere ekle butonuna bas" > 
+02-02-2022 15:01:18.326 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Favorilere ekle butonuna bas" parameterizedStepValue:"Favorilere ekle butonuna bas" > > 
+02-02-2022 15:01:18.330 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Giri\305\237 yap sayfas\304\261 xpath \"Parolam\304\261 Unuttum\" alan\304\261n\304\261 kontrol et" > 
+02-02-2022 15:01:18.330 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Giri\305\237 yap sayfas\304\261 xpath {} alan\304\261n\304\261 kontrol et" parameterizedStepValue:"Giri\305\237 yap sayfas\304\261 xpath <Parolam\304\261 Unuttum> alan\304\261n\304\261 kontrol et" parameters:"Parolam\304\261 Unuttum" > > 
+02-02-2022 15:01:18.444 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"E-posta adresi alan\304\261na \"simge.celebi@testinium.com\" de\304\237erini yaz" > 
+02-02-2022 15:01:18.445 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"E-posta adresi alan\304\261na {} de\304\237erini yaz" parameterizedStepValue:"E-posta adresi alan\304\261na <simge.celebi@testinium.com> de\304\237erini yaz" parameters:"simge.celebi@testinium.com" > > 
+02-02-2022 15:01:18.572 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" E-posta adresi alan\304\261na <text> de\304\237erini yaz" > 
+02-02-2022 15:01:18.572 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"E-posta adresi alan\304\261na {} de\304\237erini yaz" parameterizedStepValue:"E-posta adresi alan\304\261na <text> de\304\237erini yaz" parameters:"text" > > 
+02-02-2022 15:01:18.577 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Parola alan\304\261na \"12345*\" de\304\237erini yaz" > 
+02-02-2022 15:01:18.577 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Parola alan\304\261na {} de\304\237erini yaz" parameterizedStepValue:"Parola alan\304\261na <12345*> de\304\237erini yaz" parameters:"12345*" > > 
+02-02-2022 15:01:18.669 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Parola alan\304\261na <text> de\304\237erini yaz" > 
+02-02-2022 15:01:18.670 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Parola alan\304\261na {} de\304\237erini yaz" parameterizedStepValue:"Parola alan\304\261na <text> de\304\237erini yaz" parameters:"text" > > 
+02-02-2022 15:01:18.672 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Geri butonuna bas" > 
+02-02-2022 15:01:18.672 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Geri butonuna bas" parameterizedStepValue:"Geri butonuna bas" > > 
+02-02-2022 15:01:18.764 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Geri butonuna bas" > 
+02-02-2022 15:01:18.764 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Geri butonuna bas" parameterizedStepValue:"Geri butonuna bas" > > 
+02-02-2022 15:01:18.768 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Beden se\303\247 sepete ekle" > 
+02-02-2022 15:01:18.768 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Beden se\303\247 sepete ekle" parameterizedStepValue:"Beden se\303\247 sepete ekle" > > 
+02-02-2022 15:01:18.859 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Beden se\303\247 sepete ekle" > 
+02-02-2022 15:01:18.859 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Beden se\303\247 sepete ekle" parameterizedStepValue:"Beden se\303\247 sepete ekle" > > 
+02-02-2022 15:02:28.189 [Gauge] [INFO] Watching directory: C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs
+02-02-2022 15:02:28.189 [Gauge] [DEBUG] Found 2 files
+02-02-2022 15:02:28.193 [Gauge] [INFO] Initializing concepts cache with 14 concepts
+02-02-2022 15:02:28.194 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:02:28.194 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:02:28.194 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:02:28.194 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:02:28.194 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:02:28.194 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:02:28.194 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:02:28.194 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:02:28.194 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:02:28.194 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:02:28.194 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:02:28.194 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:02:28.194 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:02:28.194 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\Example.cpt
+02-02-2022 15:02:28.196 [Gauge] [INFO] Initializing specs cache with 1 specs
+02-02-2022 15:02:28.196 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\example.spec
+02-02-2022 15:02:28.196 [Gauge] [INFO] Initializing steps cache with 2 steps
+02-02-2022 15:02:28.196 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60322
+02-02-2022 15:02:37.149 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\example.spec
+02-02-2022 15:02:37.154 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\example.spec
+02-02-2022 15:03:20.693 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\example.spec
+02-02-2022 15:03:20.703 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\Documents\GitHub\AppiumOzdilekteyimMobile\specs\example.spec
