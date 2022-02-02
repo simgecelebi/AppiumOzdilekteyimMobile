@@ -2,7 +2,7 @@ Created by batuhanzafer on 30.01.2022
 
 This is a concept file with following syntax for each concept.
 # Anasayfa id <text> alanını kontrol et
-* id "com.ozdilek.ozdilekteyim:id/textView" li elementi bul ve <text> alanını kontrol et
+* id "com.ozdilek.ozdilekteyim:id/tv_marketTitle" li elementi bul ve <text> alanını kontrol et
 * "2" saniye kadar bekle
 
 # Kategoriler sayfası xpath <text> alanını kontrol et

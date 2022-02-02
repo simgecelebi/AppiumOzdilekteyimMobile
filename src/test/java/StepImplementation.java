@@ -1,7 +1,5 @@
-import com.google.common.collect.ImmutableMap;
+
 import com.thoughtworks.gauge.Step;
-import com.thoughtworks.gauge.Table;
-import com.thoughtworks.gauge.TableRow;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.TouchAction;
 import io.appium.java_client.touch.WaitOptions;
@@ -11,18 +9,14 @@ import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Dimension;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.logging.LogEntries;
 
 import java.time.Duration;
-import java.util.HashSet;
 import java.util.List;
 import java.util.Random;
 
-import static org.junit.Assert.assertEquals;
-
 public class StepImplementation extends BaseTest {
+
+    Logger logger = LogManager.getLogger(StepImplementation.class);
 
     @Step("<time> saniye kadar bekle")
     public void waitForseconds(int time) throws InterruptedException {
@@ -32,6 +26,7 @@ public class StepImplementation extends BaseTest {
     @Step("id <id> li elemente tıkla")
     public void clickByid(String id) {
         appiumDriver.findElement(By.id(id)).click();
+        logger.info("Elemente tıklandı");
     }
 
     @Step("xpath <xpath> li elemente tıkla")
